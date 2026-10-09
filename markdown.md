@@ -37,5 +37,6 @@ The photo above reminds me why I'm building this project to help protect places 
 ## Final Toughts 
 **coding** isn't just about making apps - it's about creating tools that make a difference. 
 With presistance, collaboration, and a bit of imgination, I believe I can turn EcoTrack into something real. 
+
 ---
 `git push` - my favorite command to share progress with the world! 
