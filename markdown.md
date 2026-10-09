@@ -3,6 +3,7 @@
 **DcoTrack** is an app designed to help users track thier daily carbon footprint and make small , sustainable choices that ass up to a big impact. 
 
 It's built to **HTML, CSS,** and **JavaScript** - but one day , I want to expand it into a full web platform! 
+
 ---
 ## Project Goals
 - build a user-friendly dashboard that tracks:
@@ -23,11 +24,11 @@ It's built to **HTML, CSS,** and **JavaScript** - but one day , I want to expand
   ```
   ---
   ## Resources I'm using 
-  _ `MDN Web Docs`
+  _ [MDN Web Docs](https://developer.mozilla.org/en-US/)
   
-  _ `GitHub `
+  _ [GitHub](https://github.com/)
   
-  _ `Unsplash` for free nature images  
+  _ [Unsplash](https://unsplash.com/) -for free nature images  
   
   ---
   ## Project Insperation 
